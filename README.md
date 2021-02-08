@@ -5,7 +5,11 @@
 ## Tech stack used
 
 <ul>
-    <li>ReactJS</li>
+    <li>ReactJS (Hooks and Context API)</li>
     <li>HTML</li>
     <li>CSS</li>
 </ul>
+
+<br>
+
+![alt text](demo.png)
