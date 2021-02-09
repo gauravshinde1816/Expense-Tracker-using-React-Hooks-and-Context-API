@@ -12,4 +12,7 @@
 
 <br>
 
-![alt text](demo.png)
+
+
+![alt text](expense_tracker.gif)
+
